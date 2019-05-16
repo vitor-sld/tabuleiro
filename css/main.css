@@ -1,0 +1,450 @@
+﻿.q{
+	position:absolute;
+	left: 10px;
+	top: 10px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+.q1{
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+}
+.q2{
+	position:absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+.q3{
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+}
+.q4{
+	position:absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+.q5{
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+}
+.q6{
+	position:absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+.q7{
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+}
+.q8{
+	position:absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+.q9{
+	position: absolute;
+	left: -100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+	
+}
+.q10{
+	position:absolute;
+	left: -700px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+
+		
+}
+.q11{
+	position:absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+
+}.q12{
+	position:absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}	
+.q13{
+	position:absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	
+}
+.q14{
+	position: absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+
+}.q15{
+	position:absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+
+}
+.q16{
+	position: absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+
+}
+.q17{
+	position:absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+.q18{
+	position: absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+
+}
+.q19{
+	position:absolute;
+	left: -800px;
+	top: 200px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+
+			
+}
+.q20{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+	background: black;
+
+}
+.q21{
+	position:absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+
+
+			
+}
+.q22{
+	position: absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+}
+.q23{
+	position:absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+
+}
+.q24{
+	position: absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+}
+.q25{
+	position:absolute;
+	left: 200px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+
+}
+.q26{
+	position: absolute;
+	left: -700px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+
+}
+.q27{
+	position:absolute;
+	left:-100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+
+		
+}
+.q28{
+	position:absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+
+}.q29{
+	position:absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}	
+.q30{
+	position:absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	
+}
+.q31{
+	position: absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+
+}.q32{
+	position:absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+
+}
+.q33{
+	position: absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+
+}
+.q34{
+	position:absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+.q35{
+	position: absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+
+}
+.q36{
+	position:absolute;
+	left: -800px;
+	top: 200px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+
+			
+}
+.q37{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+	background: black;
+
+}
+.q38{
+	position:absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+			
+}
+.q39{
+	position: absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+
+}
+.q40{
+	position:absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+
+}
+.q41{
+	position: absolute;
+	left: 100px;
+	top: -100px;
+	width: 100px;
+	height: 100px;
+	background: black;
+}
+.q42{
+	position:absolute;
+	left: 200px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+
+
+}
+.q43{
+	position: absolute;
+	left: -100px;
+	top: -300px;
+	width: 100px;
+	height: 100px;
+	background: black;
+
+}
+.q44 {
+	position: absolute;
+	left: -600px;
+	top: 400px;
+	width: 100px;
+	height: 100px;
+	background: black;
+}
+.q45 {
+	position: absolute;
+	left: 600px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+	background: black;
+}
+.q46 {
+	position: absolute;
+	left: 600px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+	background: white;
+}
+.q47 {
+	position: absolute;
+	left: -400px;
+	top: -800px;
+	width: 100px;
+	height: 100px;
+	background: black;
+}
+.q48 {
+	position: absolute;
+	left: 00px;
+	top: 200px;
+	width: 100px;
+	height: 100px;
+	background: black;
+}.q49 {
+	position: absolute;
+	left: 00px;
+	top: 200px;
+	width: 100px;
+	height: 100px;
+	background: black;
+}.q50 {
+	position: absolute;
+	left: 00px;
+	top: 200px;
+	width: 100px;
+	height: 100px;
+	background: black;
+	border:1px solid;
+}
+.q51 {
+position: absolute;
+	left: 0px;
+	top: 200px;
+	width: 100px;
+	height: 100px;
+	background: black;
+}
+
+
+
+
